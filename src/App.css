@@ -1,0 +1,48 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?size=626&ext=jpg&ga=GA1.1.1211982432.1675417347&semt=ais');
+  background-size:cover;
+  height:100vh
+}
+.image{
+  height:90px
+}
+.head{
+  color:yellow;
+  font-family: roboto;
+  font-size:90px;
+  font-weight: bold;
+}
+.start{
+  background-color: green;
+  color:white;
+  border-radius: 10px;
+  border-width: 0px;
+  height:50px;
+  width:70px;
+  margin:10px
+}
+.pause{
+  background-color: orange;
+  color:white;
+  border-radius: 10px;
+  border-width: 0px;
+  height:50px;
+  width:70px;
+  margin: 10px;
+}
+.reset{
+  background-color: red;
+  color:white;
+  border-radius: 10px;
+  border-width: 0px;
+  height:50px;
+  width:70px;
+  margin:10px
+}
+.timerimage{
+  height:50px
+}
